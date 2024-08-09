@@ -10,6 +10,7 @@ const tags = ["程序员", "编程", "前端工程师"];
 
 export default defineConfig({
   title: "YOYO-wan",
+  base: "/testBlog/",
   description: "YOYO-wan的文档",
   head: [
     // 站点图标
